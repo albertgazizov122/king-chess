@@ -1,4 +1,4 @@
-# king-chess
+# King's move
 # Interesting task on "coursera" - King's move! It may seem simple, but I wanted to write down the solution. 
 # 1) Initially, formulated the problem on paper 
 # 2) Made trial tests for each move 
