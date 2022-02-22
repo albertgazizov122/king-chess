@@ -1,5 +1,10 @@
 # king-chess
-# Interesting task on "coursera" - King's move! It may seem simple, but I wanted to write down the solution. 1) Initially, formulated the problem on paper 2) Made trial tests for each move 3) I looked again how to use the nested "else-if" operator 4) Wrote the final code and tested it. It's incredible! it turned out to make a working code), although at first the tests did not pass, and I strengthened the solution by writing each option separately.
+# Interesting task on "coursera" - King's move! It may seem simple, but I wanted to write down the solution. 
+# 1) Initially, formulated the problem on paper 
+# 2) Made trial tests for each move 
+# 3) I looked again how to use the nested "else-if" operator 
+# 4) Wrote the final code and tested it. 
+# It's incredible! it turned out to make a working code), although at first the tests did not pass, and I strengthened the solution by writing each option separately.
 # code on python
 c1 = int(input())
 s1 = int(input())
